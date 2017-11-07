@@ -1,0 +1,10 @@
+{
+  "globals": {
+    "site_title": "Cooking Code",
+	"site_author": "Iñaki UM",
+	"site_description": "An experimental site of Iñaki UM",
+    "twitter": "",
+    "site_url": "http://cookingcode.es"
+	
+  }
+}

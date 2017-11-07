@@ -1,0 +1,11 @@
+{
+  "index": {
+    "title": "Hello human",
+	"content": "this is a static/dynamic web"
+  },
+  "contact": {
+    "title": "Contact at",
+	"content": "info to contact me"
+  }
+  
+}
